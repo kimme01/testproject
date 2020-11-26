@@ -20,6 +20,7 @@ namespace WebAppSonar2.Controllers
 
         public IActionResult Index()
         {
+        if(1<0){}
             return View();
         }
 
