@@ -23,6 +23,7 @@ namespace WebAppSonar2.Controllers
         if(1> 0)
         {
         }
+        for(var x = 1;x > 50;x--){}
             return View();
         }
 
