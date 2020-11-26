@@ -30,7 +30,7 @@ namespace WebAppSonar2.Controllers
         public IActionResult Privacy()
         {
         if(1>1){}
-        var a;
+        var a ="";
             return View();
         }
 
