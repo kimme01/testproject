@@ -28,6 +28,7 @@ namespace WebAppSonar2.Controllers
 
         public IActionResult Privacy()
         {
+        if(1>1){}
             return View();
         }
 
